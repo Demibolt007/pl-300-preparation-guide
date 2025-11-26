@@ -1,4 +1,4 @@
-# PL-300 Preparation Guide
+# PL-300 Exam Preparation Guide
 
 A structured study guide to help you prepare effectively for the PL-300: Microsoft Power BI Data Analyst certification exam. This document compiles essential study resources, practice materials, exam-focused tips, and additional tools that contributed directly to a successful exam experience.
 
@@ -39,15 +39,9 @@ Recommendations:
 
 ## 4. Exam Sandbox and Study Guide
 
-Microsoft Exam Sandbox & Study Guide:
-[Exam PL-300 Study Guide and Sandbox](https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/pl-300)
-
-Useful for understanding:
-
-* Navigation
-* Case study layout
-* Question types
-* Time management
+Microsoft Exam Sandbox & Study Guide:  
+* [Exam PL-300 Study Guide](https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/pl-300)  
+* [Exam Sandbox](starttest.com/ITDVersions/24.2.0.0/ITDStart.aspx?SVC=91511805-7b92-4d35-878e-324bdd8cffc9)
 
 ---
 
@@ -75,19 +69,8 @@ These resources also contain questions that appeared in the actual exam.
 ### CertyIQ (PDF)
 
 CertyIQ PL-300 Exam Material (PDF):
-[PL-300 Exam Material — CertyIQ](https://drive.google.com/file/d/1kOb3zNWltpSz8tiOH4GSZ5f3xrHHK0Md/view?usp=sharing)
+[PL-300 Exam Material — CertyIQ](https://github.com/Demibolt007/pl-300-preparation-guide/blob/main/PL-300%20Exam%20Material%20-%20CertyIQ.pdf)
 
-After downloading, upload the PDF into your repository under:
-
-```
-/resources/PL-300-Exam-Material-CertyIQ.pdf
-```
-
-Then reference it as:
-
-```
-[Download CertyIQ PDF](./resources/PL-300-Exam-Material-CertyIQ.pdf)
-```
 
 ### CertyIQ YouTube Playlist (Optional)
 
@@ -104,15 +87,15 @@ A recommended study structure:
 3. Review every question you get wrong.
 4. Complete all LinkedIn Learning practice exams.
 5. Study the CertyIQ PDF and note repeated questions.
-6. Build a summary sheet for DAX, data modeling rules, and Power Query M transformations.
+6. Build a summary sheet for DAX, data modelling rules, and Power Query M transformations.
 7. Use the exam sandbox to understand the interface before test day.
 
 ---
 
 ## 8. Additional Notes
 
-* Prioritize understanding over memorization.
+* Prioritise understanding over memorisation.
 * Build at least one end-to-end Power BI project to strengthen practical skills.
-* Expect extensive questions on data modeling and DAX evaluation context.
+* Expect extensive questions on data modelling and DAX evaluation context.
 * Be comfortable with Power BI service features: workspaces, sharing options, RLS, and dataset settings.
 * Time management is essential; practice case study timing.
