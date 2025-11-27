@@ -68,7 +68,7 @@ These resources also contain questions that appeared in the actual exam.
 
 ### CertyIQ (PDF)
 
-[CertyIQ PL-300 Exam Material](https://github.com/Demibolt007/pl-300-preparation-guide/blob/main/PL-300%20Exam%20Material%20-%20CertyIQ.pdf)
+[CertyIQ PL-300 Exam Material](https://github.com/Demibolt007/PL-300-Preparation-Guide/blob/main/PL-300%20Exam%20Material%20-%20CertyIQ.pdf)
 
 
 ### CertyIQ YouTube Playlist (Optional)
