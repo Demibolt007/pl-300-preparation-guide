@@ -41,7 +41,7 @@ Recommendations:
 
 Microsoft Exam Sandbox & Study Guide:  
 * [Exam PL-300 Study Guide](https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/pl-300)  
-* [Exam Sandbox](starttest.com/ITDVersions/24.2.0.0/ITDStart.aspx?SVC=91511805-7b92-4d35-878e-324bdd8cffc9)
+* [Exam Sandbox](https://mscertdemo.starttest.com/) - Experience the look and feel of the exam before taking it. You'll be able to interact with different question types in the same user interface you'll use during the exam.
 
 ---
 
